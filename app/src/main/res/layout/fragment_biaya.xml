@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.home.BiayaFragment"
+        android:orientation="vertical"
+        android:layout_margin="16dp">
+
+
+        <TextView
+            android:layout_marginTop="24dp"
+            android:includeFontPadding="false"
+            android:layout_marginBottom="10dp"
+            android:text="Daerah Penjemputan"
+            android:textSize="15sp"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Spinner
+            android:id="@+id/sp_jemput"
+            android:padding="8dp"
+            android:hint="Pilih jenis kajian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></Spinner>
+
+        <TextView
+            android:layout_marginTop="24dp"
+            android:includeFontPadding="false"
+            android:layout_marginBottom="10dp"
+            android:text="Daerah Tujuan"
+            android:textSize="15sp"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Spinner
+            android:id="@+id/sp_tujuan"
+            android:padding="8dp"
+            android:hint="Pilih jenis kajian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></Spinner>
+
+
+        <TextView
+            android:layout_marginTop="24dp"
+            android:includeFontPadding="false"
+            android:layout_marginBottom="10dp"
+            android:text="No Hp Utama"
+            android:textSize="15sp"
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/et_biaya"
+            android:padding="15dp"
+            android:hint="Biaya"
+            android:textSize="12sp"
+            android:textColor="@android:color/black"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLines="1"
+            android:background="@drawable/bg_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+        <Button
+            android:id="@+id/btn_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Update Biaya"
+            android:textColor="@android:color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/button_white"
+            android:backgroundTint="@color/colorPrimary"/>
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_biaya.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\fragment_biaya.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_pesanan_terjadwal.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\fragment_pesanan_terjadwal.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_driver.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\item_driver.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_pesanan.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\item_pesanan.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_driver.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\fragment_driver.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cari_driver.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\activity_cari_driver.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update_driver.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\activity_update_driver.xml"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_pesanan_sekarang.xml",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\fragment_pesanan_sekarang.xml"
+    }
+]
