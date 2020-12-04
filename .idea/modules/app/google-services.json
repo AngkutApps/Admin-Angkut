@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "818190038389",
+    "firebase_url": "https://angkutappsmvp.firebaseio.com",
+    "project_id": "angkutappsmvp",
+    "storage_bucket": "angkutappsmvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818190038389:android:ed386cdbc92c2f01134f3c",
+        "android_client_info": {
+          "package_name": "com.angkutapps.new_angkut_apps_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818190038389-3qialpnf2hfgspt6lmarlu3qrhshff0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angkutapps.new_angkut_apps_mvp",
+            "certificate_hash": "cad23af7fca846846be7294508f462f6a8b0db0c"
+          }
+        },
+        {
+          "client_id": "818190038389-b197fmpv1v7p2qg5s837u5pm75ad7t0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angkutapps.new_angkut_apps_mvp",
+            "certificate_hash": "e6be959f4a0095fed84d532140dfd529ce3d3582"
+          }
+        },
+        {
+          "client_id": "818190038389-fjr3vknpuqs7b0kkjlthkv6isaujoc64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angkutapps.new_angkut_apps_mvp",
+            "certificate_hash": "1740dd3eea31dae7bd9e25b3bc59df63912b1bc2"
+          }
+        },
+        {
+          "client_id": "818190038389-q37vl59r7d7uj6ei0e6usrbinv7lcgsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angkutapps.new_angkut_apps_mvp",
+            "certificate_hash": "f9798ae691b7c0a6f6005e0b23ab7c438e33bfd6"
+          }
+        },
+        {
+          "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Sc-873gPHFHlpHb0dLU4NFiKtyGSjjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818190038389:android:4465941c4cdc5937134f3c",
+        "android_client_info": {
+          "package_name": "com.example.adminangkut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818190038389-j4spuho8jgai3vcbbv9ufpfard95vqno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminangkut",
+            "certificate_hash": "bd93551e54e1eb55a73369487cfdaadb9d70dacc"
+          }
+        },
+        {
+          "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Sc-873gPHFHlpHb0dLU4NFiKtyGSjjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818190038389:android:300faf2c59e4d6fb134f3c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818190038389-c45df7tdf3vli1ef9jikbot6teigi3ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_otp",
+            "certificate_hash": "3f6fe0e101ae8ee79b052134c58af9bc8d274934"
+          }
+        },
+        {
+          "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Sc-873gPHFHlpHb0dLU4NFiKtyGSjjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818190038389:android:985f16608052d354134f3c",
+        "android_client_info": {
+          "package_name": "com.example.new_angkut_apps_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818190038389-9k0bsmcdqg2cjei6td4579cq6m7uvmfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_angkut_apps_mvp",
+            "certificate_hash": "e6be959f4a0095fed84d532140dfd529ce3d3582"
+          }
+        },
+        {
+          "client_id": "818190038389-ufjeng0ecg537t1p7co8du4jk0tm9hpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_angkut_apps_mvp",
+            "certificate_hash": "1740dd3eea31dae7bd9e25b3bc59df63912b1bc2"
+          }
+        },
+        {
+          "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Sc-873gPHFHlpHb0dLU4NFiKtyGSjjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818190038389-m41so0r9qpo1nt9gejccgqgotmb5ru3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
