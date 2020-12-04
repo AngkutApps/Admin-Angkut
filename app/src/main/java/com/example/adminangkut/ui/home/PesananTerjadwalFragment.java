@@ -105,7 +105,6 @@ public class PesananTerjadwalFragment extends Fragment {
 
             @Override
             public void onFailure(Call<List<Pesanan>> call, Throwable t) {
-                Log.d(TAG, "onFailure: "+t.getMessage());
             }
         });
     }
