@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [androidx.databinding:databinding-adapters:4.0.0] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\dc2d9151236e47702a6cf0d5d35bfebf\databinding-adapters-4.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:4.0.0] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\fcc8b88a377edd244cdd69189fb51840\databinding-runtime-4.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\e9563f0847c34e52f15dc511e50e141b\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -67,20 +67,20 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\8db2f4f62dfb6f83a558ccf44b2d47b4\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:16.0.1] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\de205792632271f7cc9d438e017c49a3\jetified-firebase-components-16.0.1\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\79a2279c6300047edf629fea5c5a9c76\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
-INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml
 		INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml
-		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
+		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml
-		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-36:12
+		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:2:11-69
@@ -97,7 +97,7 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Us
 	android:name
 		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:7:5-34:19
+ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:7:5-40:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\e9563f0847c34e52f15dc511e50e141b\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\e9563f0847c34e52f15dc511e50e141b\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.1.0-alpha08] C:\Users\Raihan\.gradle\caches\transforms-2\files-2.1\fb64c4b3747cbb66b616865be2a4a8f7\material-1.1.0-alpha08\AndroidManifest.xml:22:5-20
@@ -194,6 +194,14 @@ action#com.google.firebase.MESSAGING_EVENT
 ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:31:17-78
 	android:name
 		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:31:25-75
+receiver#com.example.adminangkut.receiver.PesananReceiver
+ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:35:9-38:39
+	android:enabled
+		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml:36:13-53
 uses-sdk
 INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from G:\Kotlin\AdminAngkut\app\src\main\AndroidManifest.xml

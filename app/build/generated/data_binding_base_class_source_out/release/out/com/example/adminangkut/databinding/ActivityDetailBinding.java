@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -26,6 +27,9 @@ public abstract class ActivityDetailBinding extends ViewDataBinding {
   public final Button btnUpdate;
 
   @NonNull
+  public final EditText etBiaya;
+
+  @NonNull
   public final LinearLayout rlCariDriver;
 
   @NonNull
@@ -41,11 +45,12 @@ public abstract class ActivityDetailBinding extends ViewDataBinding {
   protected Pesanan mPesanan;
 
   protected ActivityDetailBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      Button btnCariDriver, Button btnUpdate, LinearLayout rlCariDriver,
+      Button btnCariDriver, Button btnUpdate, EditText etBiaya, LinearLayout rlCariDriver,
       LinearLayout rlDriverSelect, NestedScrollView scrollView2, TextView tvDriver) {
     super(_bindingComponent, _root, _localFieldCount);
     this.btnCariDriver = btnCariDriver;
     this.btnUpdate = btnUpdate;
+    this.etBiaya = etBiaya;
     this.rlCariDriver = rlCariDriver;
     this.rlDriverSelect = rlDriverSelect;
     this.scrollView2 = scrollView2;

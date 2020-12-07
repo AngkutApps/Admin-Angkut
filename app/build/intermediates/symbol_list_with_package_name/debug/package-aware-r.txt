@@ -2108,6 +2108,9 @@ menu menu_bottom_nav
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw adapesanan
+raw klakson
+raw notif
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

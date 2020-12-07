@@ -45,6 +45,12 @@
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
         </service>
+
+        <receiver
+            android:name="com.example.adminangkut.receiver.PesananReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
         <!--
              FirebaseMessagingService performs security checks at runtime,
              but set to not exported to explicitly avoid allowing another app to call it.

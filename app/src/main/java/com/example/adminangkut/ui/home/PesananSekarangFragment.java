@@ -5,6 +5,10 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.media.MediaPlayer;
+import android.media.Ringtone;
+import android.media.RingtoneManager;
+import android.net.Uri;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -27,6 +31,7 @@ import com.example.adminangkut.data.ApiRequest;
 import com.example.adminangkut.data.RetrofitRequest;
 import com.example.adminangkut.data.model.Pesanan;
 import com.example.adminangkut.databinding.FragmentPesananSekarangBinding;
+import com.example.adminangkut.receiver.PesananReceiver;
 import com.example.adminangkut.ui.adapter.PesananAdapter;
 import com.example.adminangkut.util.Util;
 import com.google.firebase.iid.FirebaseInstanceId;
@@ -52,6 +57,11 @@ public class PesananSekarangFragment extends Fragment {
         @Override
         public void onReceive(Context context, Intent intent) {
             Log.d(TAG, "onReceive: load Data receiver");
+
+            Intent intentPesanan = new Intent(getActivity(), PesananReceiver.class);
+            intent.setAction("pesanan_receiver");
+            getActivity().sendBroadcast(intentPesanan);
+
             loadData();
         }
     };

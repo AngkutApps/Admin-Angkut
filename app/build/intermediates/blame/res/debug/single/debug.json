@@ -44,6 +44,10 @@
         "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\drawable\\bg_input.xml"
     },
     {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\raw_adapesanan.mp3.flat",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\raw\\adapesanan.mp3"
+    },
+    {
         "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_input_2.xml.flat",
         "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\drawable\\bg_input_2.xml"
     },
@@ -56,16 +60,20 @@
         "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\raw_klakson.mpeg.flat",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\raw\\klakson.mpeg"
+    },
+    {
         "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "G:\\Kotlin\\AdminAngkut\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_white.xml.flat",
-        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\drawable\\button_white.xml"
-    },
-    {
         "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_white.xml.flat",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\drawable\\button_white.xml"
     },
     {
         "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_biaya.xml.flat",
@@ -178,6 +186,10 @@
     {
         "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_confirmation_number_24.png.flat",
         "source": "G:\\Kotlin\\AdminAngkut\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_confirmation_number_24.png"
+    },
+    {
+        "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\raw_notif.mp3.flat",
+        "source": "G:\\Kotlin\\AdminAngkut\\app\\src\\main\\res\\raw\\notif.mp3"
     },
     {
         "merged": "G:\\Kotlin\\AdminAngkut\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",

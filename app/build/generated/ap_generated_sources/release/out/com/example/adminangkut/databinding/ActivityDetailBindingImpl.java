@@ -39,8 +39,6 @@ public class ActivityDetailBindingImpl extends ActivityDetailBinding  {
     @NonNull
     private final android.widget.TextView mboundView7;
     @NonNull
-    private final android.widget.TextView mboundView8;
-    @NonNull
     private final android.widget.TextView mboundView9;
     // variables
     // values
@@ -54,11 +52,13 @@ public class ActivityDetailBindingImpl extends ActivityDetailBinding  {
         super(bindingComponent, root, 0
             , (android.widget.Button) bindings[15]
             , (android.widget.Button) bindings[14]
+            , (android.widget.EditText) bindings[8]
             , (android.widget.LinearLayout) bindings[11]
             , (android.widget.LinearLayout) bindings[12]
             , (androidx.core.widget.NestedScrollView) bindings[10]
             , (android.widget.TextView) bindings[13]
             );
+        this.etBiaya.setTag(null);
         this.mboundView0 = (androidx.constraintlayout.widget.ConstraintLayout) bindings[0];
         this.mboundView0.setTag(null);
         this.mboundView1 = (android.widget.TextView) bindings[1];
@@ -75,8 +75,6 @@ public class ActivityDetailBindingImpl extends ActivityDetailBinding  {
         this.mboundView6.setTag(null);
         this.mboundView7 = (android.widget.TextView) bindings[7];
         this.mboundView7.setTag(null);
-        this.mboundView8 = (android.widget.TextView) bindings[8];
-        this.mboundView8.setTag(null);
         this.mboundView9 = (android.widget.TextView) bindings[9];
         this.mboundView9.setTag(null);
         setRootTag(root);
@@ -177,6 +175,7 @@ public class ActivityDetailBindingImpl extends ActivityDetailBinding  {
         if ((dirtyFlags & 0x3L) != 0) {
             // api target 1
 
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.etBiaya, pesananBiaya);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView1, pesananNamaUser);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView2, pesananNoHpUser);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView3, pesananLokPenjemputan);
@@ -184,7 +183,6 @@ public class ActivityDetailBindingImpl extends ActivityDetailBinding  {
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView5, pesananPenumpangDewasa);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView6, pesananPenumpangAnak);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView7, pesananBarangBawaan);
-            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView8, pesananBiaya);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.mboundView9, pesananKeberangkatan);
         }
     }
